@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/galileo/model_cancer_detector.tflearn"
+all_model_checkpoint_paths: "/home/galileo/model_cancer_detector.tflearn"
